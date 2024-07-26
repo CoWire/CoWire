@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm CoWire
+
+I'm a student now. But I don't think this is the gap from you and me.
+you can find me with [naudaniso@hotmail.com](mailto:naudaniso@hotmail.com).
 
 <!--
 **CoWire/CoWire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
